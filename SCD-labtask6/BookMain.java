@@ -1,4 +1,4 @@
-public class Main {
+public class BookMain {
     public static void main(String[] args) {
 
         // Creating objects
